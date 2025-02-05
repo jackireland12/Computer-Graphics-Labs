@@ -1,0 +1,16 @@
+# ninja log v5
+374	911	7604721903779575	external/glfw-3.1.2/examples/CMakeFiles/boing.dir/boing.c.obj	c700eea11db2db23
+256	1603	7604721910819160	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/win32_tls.c.obj	6a1b140766f56714
+223	1755	7604721912374855	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/win32_time.c.obj	9ba450986c8512d4
+21	1770	7604721912570009	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/context.c.obj	5fc7c90fec3c4a4e
+133	1780	7604721912639989	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/window.c.obj	d1f609e8f76b4edb
+191	1790	7604721912774110	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	c3d30b7d56b2648
+35	1792	7604721912784181	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/init.c.obj	51051c917864f64c
+102	1793	7604721912824186	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/monitor.c.obj	d130c9899464de14
+69	1812	7604721913019340	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/input.c.obj	65f17128b5e9af57
+343	1815	7604721913089340	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/wgl_context.c.obj	e285090d7944fc48
+163	1817	7604721913109342	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/win32_init.c.obj	89ebac70d8d8a286
+286	1819	7604721913119340	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/win32_window.c.obj	6768dac64523b3f4
+313	1831	7604721913244496	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/winmm_joystick.c.obj	5d2407dae927705d
+1831	2159	7604721916438469	external/glfw-3.1.2/src/glfw3.lib	c9659f1251a5ba4f
+2160	3255	7604721927128559	external/glfw-3.1.2/examples/boing.exe	4e792f32c9f88199
