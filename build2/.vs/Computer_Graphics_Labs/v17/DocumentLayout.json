@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git2\\Computer-Graphics-Labs\\build2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E301AD-8838-34D2-819E-6743A9D214C0}|Lab03_Textures.vcxproj|D:\\git2\\Computer-Graphics-Labs\\Lab03_Textures\\Lab03_Textures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E301AD-8838-34D2-819E-6743A9D214C0}|Lab03_Textures.vcxproj|D:\\git2\\Computer-Graphics-Labs\\common\\texture.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E301AD-8838-34D2-819E-6743A9D214C0}|Lab03_Textures.vcxproj|D:\\git2\\Computer-Graphics-Labs\\Lab03_Textures\\vertexShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E301AD-8838-34D2-819E-6743A9D214C0}|Lab03_Textures.vcxproj|D:\\git2\\Computer-Graphics-Labs\\Lab03_Textures\\fragmentShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E301AD-8838-34D2-819E-6743A9D214C0}|Lab03_Textures.vcxproj|D:\\git2\\Computer-Graphics-Labs\\common\\shader.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E301AD-8838-34D2-819E-6743A9D214C0}|Lab03_Textures.vcxproj|D:\\git2\\Computer-Graphics-Labs\\common\\stb_image.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vertexShader.glsl",
+              "DocumentMoniker": "D:\\git2\\Computer-Graphics-Labs\\Lab03_Textures\\vertexShader.glsl",
+              "RelativeDocumentMoniker": "..\\Lab03_Textures\\vertexShader.glsl",
+              "ToolTip": "D:\\git2\\Computer-Graphics-Labs\\Lab03_Textures\\vertexShader.glsl",
+              "RelativeToolTip": "..\\Lab03_Textures\\vertexShader.glsl",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-12T16:19:16.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "texture.hpp",
+              "DocumentMoniker": "D:\\git2\\Computer-Graphics-Labs\\common\\texture.hpp",
+              "RelativeDocumentMoniker": "..\\common\\texture.hpp",
+              "ToolTip": "D:\\git2\\Computer-Graphics-Labs\\common\\texture.hpp",
+              "RelativeToolTip": "..\\common\\texture.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-12T15:44:18.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab03_Textures.cpp",
+              "DocumentMoniker": "D:\\git2\\Computer-Graphics-Labs\\Lab03_Textures\\Lab03_Textures.cpp",
+              "RelativeDocumentMoniker": "..\\Lab03_Textures\\Lab03_Textures.cpp",
+              "ToolTip": "D:\\git2\\Computer-Graphics-Labs\\Lab03_Textures\\Lab03_Textures.cpp",
+              "RelativeToolTip": "..\\Lab03_Textures\\Lab03_Textures.cpp",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAI0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-12T15:24:42.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fragmentShader.glsl",
+              "DocumentMoniker": "D:\\git2\\Computer-Graphics-Labs\\Lab03_Textures\\fragmentShader.glsl",
+              "RelativeDocumentMoniker": "..\\Lab03_Textures\\fragmentShader.glsl",
+              "ToolTip": "D:\\git2\\Computer-Graphics-Labs\\Lab03_Textures\\fragmentShader.glsl",
+              "RelativeToolTip": "..\\Lab03_Textures\\fragmentShader.glsl",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-12T16:19:34.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "shader.hpp",
+              "DocumentMoniker": "D:\\git2\\Computer-Graphics-Labs\\common\\shader.hpp",
+              "RelativeDocumentMoniker": "..\\common\\shader.hpp",
+              "ToolTip": "D:\\git2\\Computer-Graphics-Labs\\common\\shader.hpp",
+              "RelativeToolTip": "..\\common\\shader.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-12T15:44:16.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "stb_image.hpp",
+              "DocumentMoniker": "D:\\git2\\Computer-Graphics-Labs\\common\\stb_image.hpp",
+              "RelativeDocumentMoniker": "..\\common\\stb_image.hpp",
+              "ToolTip": "D:\\git2\\Computer-Graphics-Labs\\common\\stb_image.hpp",
+              "RelativeToolTip": "..\\common\\stb_image.hpp",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-12T15:43:42.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
