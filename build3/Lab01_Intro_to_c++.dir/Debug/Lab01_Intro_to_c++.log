@@ -1,6 +1,0 @@
-﻿  Building Custom Rule D:/git/Computer-Graphics-Labs/CMakeLists.txt
-  Lab01_Intro_to_c++.cpp
-  Car.cpp
-  Student.cpp
-D:\git\Computer-Graphics-Labs\Lab01_Intro_to_c++\Lab01_Intro_to_c++.cpp(6,29): warning C4018: '<': signed/unsigned mismatch
-  Lab01_Intro_to_c++.vcxproj -> D:\git\Computer-Graphics-Labs\build3\Debug\Lab01_Intro_to_c++.exe

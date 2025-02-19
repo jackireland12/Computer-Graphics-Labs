@@ -4,9 +4,6 @@
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{3994095D-5F7B-32D9-B067-87317F7C5F5E}|Lab04_Vectors_and_matrices.vcxproj|D:\\git\\Computer-Graphics-Labs\\Lab04_Vectors_and_matrices\\Lab04_Vectors_and_matrices.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7861D41-CF21-3333-9B3E-41DC83B5E7B9}|Lab08_Lighting.vcxproj|D:\\git\\Computer-Graphics-Labs\\Lab08_Lighting\\Lab08_Lighting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,21 +13,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Lab08_Lighting.cpp",
-              "DocumentMoniker": "D:\\git\\Computer-Graphics-Labs\\Lab08_Lighting\\Lab08_Lighting.cpp",
-              "RelativeDocumentMoniker": "..\\Lab08_Lighting\\Lab08_Lighting.cpp",
-              "ToolTip": "D:\\git\\Computer-Graphics-Labs\\Lab08_Lighting\\Lab08_Lighting.cpp",
-              "RelativeToolTip": "..\\Lab08_Lighting\\Lab08_Lighting.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-19T15:36:58.298Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -39,14 +23,10 @@
               "RelativeDocumentMoniker": "..\\Lab04_Vectors_and_matrices\\Lab04_Vectors_and_matrices.cpp",
               "ToolTip": "D:\\git\\Computer-Graphics-Labs\\Lab04_Vectors_and_matrices\\Lab04_Vectors_and_matrices.cpp",
               "RelativeToolTip": "..\\Lab04_Vectors_and_matrices\\Lab04_Vectors_and_matrices.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADkAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-19T15:36:16.9Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
