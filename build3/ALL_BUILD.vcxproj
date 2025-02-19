@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ResolveNugetPackages>false</ResolveNugetPackages>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|x64">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{98FF8025-4FFC-34F0-9C46-5E502D405613}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
+    <Platform>x64</Platform>
+    <ProjectName>ALL_BUILD</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>D:\git\Computer-Graphics-Labs\external\glfw-3.1.2\include;D:\git\Computer-Graphics-Labs\external\glew-1.13.0\include;D:\git\Computer-Graphics-Labs\external\glm-0.9.7.1;D:\git\Computer-Graphics-Labs\.;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>D:\git\Computer-Graphics-Labs\external\glfw-3.1.2\include;D:\git\Computer-Graphics-Labs\external\glew-1.13.0\include;D:\git\Computer-Graphics-Labs\external\glm-0.9.7.1;D:\git\Computer-Graphics-Labs\.;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>D:\git\Computer-Graphics-Labs\external\glfw-3.1.2\include;D:\git\Computer-Graphics-Labs\external\glew-1.13.0\include;D:\git\Computer-Graphics-Labs\external\glm-0.9.7.1;D:\git\Computer-Graphics-Labs\.;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>D:\git\Computer-Graphics-Labs\external\glfw-3.1.2\include;D:\git\Computer-Graphics-Labs\external\glew-1.13.0\include;D:\git\Computer-Graphics-Labs\external\glm-0.9.7.1;D:\git\Computer-Graphics-Labs\.;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\git\Computer-Graphics-Labs\CMakeLists.txt">
+      <UseUtf8Encoding>Always</UseUtf8Encoding>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule D:/git/Computer-Graphics-Labs/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/git/Computer-Graphics-Labs -BD:/git/Computer-Graphics-Labs/build3 --check-stamp-file D:/git/Computer-Graphics-Labs/build3/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeInitializeConfigs.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeSystemSpecificInitialize.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Compiler\MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Compiler\MSVC.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindOpenGL.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Platform\Windows-Initialize.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Platform\WindowsPaths.cmake;D:\git\Computer-Graphics-Labs\build3\CMakeFiles\3.29.5\CMakeCCompiler.cmake;D:\git\Computer-Graphics-Labs\build3\CMakeFiles\3.29.5\CMakeCXXCompiler.cmake;D:\git\Computer-Graphics-Labs\build3\CMakeFiles\3.29.5\CMakeRCCompiler.cmake;D:\git\Computer-Graphics-Labs\build3\CMakeFiles\3.29.5\CMakeSystem.cmake;D:\git\Computer-Graphics-Labs\external\rpavlik-cmake-modules-fe2273\CleanDirectoryList.cmake;D:\git\Computer-Graphics-Labs\external\rpavlik-cmake-modules-fe2273\CreateLaunchers.cmake;D:\git\Computer-Graphics-Labs\external\rpavlik-cmake-modules-fe2273\ListCombinations.cmake;D:\git\Computer-Graphics-Labs\external\rpavlik-cmake-modules-fe2273\MSVCMultipleProcessCompile.cmake;D:\git\Computer-Graphics-Labs\external\rpavlik-cmake-modules-fe2273\launcher-templates\targetlauncher.cmd.in;D:\git\Computer-Graphics-Labs\external\rpavlik-cmake-modules-fe2273\launcher-templates\vcxproj.user.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\git\Computer-Graphics-Labs\build3\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule D:/git/Computer-Graphics-Labs/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/git/Computer-Graphics-Labs -BD:/git/Computer-Graphics-Labs/build3 --check-stamp-file D:/git/Computer-Graphics-Labs/build3/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeInitializeConfigs.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeSystemSpecificInitialize.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Compiler\MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Compiler\MSVC.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindOpenGL.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Platform\Windows-Initialize.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Platform\WindowsPaths.cmake;D:\git\Computer-Graphics-Labs\build3\CMakeFiles\3.29.5\CMakeCCompiler.cmake;D:\git\Computer-Graphics-Labs\build3\CMakeFiles\3.29.5\CMakeCXXCompiler.cmake;D:\git\Computer-Graphics-Labs\build3\CMakeFiles\3.29.5\CMakeRCCompiler.cmake;D:\git\Computer-Graphics-Labs\build3\CMakeFiles\3.29.5\CMakeSystem.cmake;D:\git\Computer-Graphics-Labs\external\rpavlik-cmake-modules-fe2273\CleanDirectoryList.cmake;D:\git\Computer-Graphics-Labs\external\rpavlik-cmake-modules-fe2273\CreateLaunchers.cmake;D:\git\Computer-Graphics-Labs\external\rpavlik-cmake-modules-fe2273\ListCombinations.cmake;D:\git\Computer-Graphics-Labs\external\rpavlik-cmake-modules-fe2273\MSVCMultipleProcessCompile.cmake;D:\git\Computer-Graphics-Labs\external\rpavlik-cmake-modules-fe2273\launcher-templates\targetlauncher.cmd.in;D:\git\Computer-Graphics-Labs\external\rpavlik-cmake-modules-fe2273\launcher-templates\vcxproj.user.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\git\Computer-Graphics-Labs\build3\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule D:/git/Computer-Graphics-Labs/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/git/Computer-Graphics-Labs -BD:/git/Computer-Graphics-Labs/build3 --check-stamp-file D:/git/Computer-Graphics-Labs/build3/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeInitializeConfigs.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeSystemSpecificInitialize.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Compiler\MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Compiler\MSVC.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindOpenGL.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Platform\Windows-Initialize.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Platform\WindowsPaths.cmake;D:\git\Computer-Graphics-Labs\build3\CMakeFiles\3.29.5\CMakeCCompiler.cmake;D:\git\Computer-Graphics-Labs\build3\CMakeFiles\3.29.5\CMakeCXXCompiler.cmake;D:\git\Computer-Graphics-Labs\build3\CMakeFiles\3.29.5\CMakeRCCompiler.cmake;D:\git\Computer-Graphics-Labs\build3\CMakeFiles\3.29.5\CMakeSystem.cmake;D:\git\Computer-Graphics-Labs\external\rpavlik-cmake-modules-fe2273\CleanDirectoryList.cmake;D:\git\Computer-Graphics-Labs\external\rpavlik-cmake-modules-fe2273\CreateLaunchers.cmake;D:\git\Computer-Graphics-Labs\external\rpavlik-cmake-modules-fe2273\ListCombinations.cmake;D:\git\Computer-Graphics-Labs\external\rpavlik-cmake-modules-fe2273\MSVCMultipleProcessCompile.cmake;D:\git\Computer-Graphics-Labs\external\rpavlik-cmake-modules-fe2273\launcher-templates\targetlauncher.cmd.in;D:\git\Computer-Graphics-Labs\external\rpavlik-cmake-modules-fe2273\launcher-templates\vcxproj.user.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">D:\git\Computer-Graphics-Labs\build3\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule D:/git/Computer-Graphics-Labs/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/git/Computer-Graphics-Labs -BD:/git/Computer-Graphics-Labs/build3 --check-stamp-file D:/git/Computer-Graphics-Labs/build3/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeInitializeConfigs.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeSystemSpecificInitialize.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Compiler\MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Compiler\MSVC.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindOpenGL.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Platform\Windows-Initialize.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Platform\WindowsPaths.cmake;D:\git\Computer-Graphics-Labs\build3\CMakeFiles\3.29.5\CMakeCCompiler.cmake;D:\git\Computer-Graphics-Labs\build3\CMakeFiles\3.29.5\CMakeCXXCompiler.cmake;D:\git\Computer-Graphics-Labs\build3\CMakeFiles\3.29.5\CMakeRCCompiler.cmake;D:\git\Computer-Graphics-Labs\build3\CMakeFiles\3.29.5\CMakeSystem.cmake;D:\git\Computer-Graphics-Labs\external\rpavlik-cmake-modules-fe2273\CleanDirectoryList.cmake;D:\git\Computer-Graphics-Labs\external\rpavlik-cmake-modules-fe2273\CreateLaunchers.cmake;D:\git\Computer-Graphics-Labs\external\rpavlik-cmake-modules-fe2273\ListCombinations.cmake;D:\git\Computer-Graphics-Labs\external\rpavlik-cmake-modules-fe2273\MSVCMultipleProcessCompile.cmake;D:\git\Computer-Graphics-Labs\external\rpavlik-cmake-modules-fe2273\launcher-templates\targetlauncher.cmd.in;D:\git\Computer-Graphics-Labs\external\rpavlik-cmake-modules-fe2273\launcher-templates\vcxproj.user.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">D:\git\Computer-Graphics-Labs\build3\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\ZERO_CHECK.vcxproj">
+      <Project>{74518B94-38E9-3BF2-BCD7-BA1DED6FDE25}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\external\GLEW_1130.vcxproj">
+      <Project>{3F8CBF18-C902-3958-9289-270571723082}</Project>
+      <Name>GLEW_1130</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\Lab01_Intro_to_c++.vcxproj">
+      <Project>{B9ADF2F6-688D-3541-9C84-A410F7CFB7A2}</Project>
+      <Name>Lab01_Intro_to_c++</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\Lab02_Basic_shapes.vcxproj">
+      <Project>{99F8CD76-D90B-3D8A-837C-52AAA2CA6FBB}</Project>
+      <Name>Lab02_Basic_shapes</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\Lab03_Textures.vcxproj">
+      <Project>{47CC99FA-A472-3341-9865-ECBBE5B7F5B1}</Project>
+      <Name>Lab03_Textures</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\Lab04_Vectors_and_matrices.vcxproj">
+      <Project>{3994095D-5F7B-32D9-B067-87317F7C5F5E}</Project>
+      <Name>Lab04_Vectors_and_matrices</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\Lab05_Transformations.vcxproj">
+      <Project>{3028D988-21DB-3F05-915F-636698D8941E}</Project>
+      <Name>Lab05_Transformations</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\Lab06_3D_worlds.vcxproj">
+      <Project>{ED76E18F-0765-3422-97C4-3355090118CC}</Project>
+      <Name>Lab06_3D_worlds</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\Lab07_Moving_the_camera.vcxproj">
+      <Project>{EF787062-90AB-3183-A923-67B7F88CF6C6}</Project>
+      <Name>Lab07_Moving_the_camera</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\Lab08_Lighting.vcxproj">
+      <Project>{F7861D41-CF21-3333-9B3E-41DC83B5E7B9}</Project>
+      <Name>Lab08_Lighting</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\Lab09_Normal_maps.vcxproj">
+      <Project>{D84211CE-6735-3FAE-B9BE-16ADF183E812}</Project>
+      <Name>Lab09_Normal_maps</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\Lab10_Quaternions.vcxproj">
+      <Project>{5E1113D1-0549-31D3-8904-880863BF45F8}</Project>
+      <Name>Lab10_Quaternions</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\external\glfw-3.1.2\examples\boing.vcxproj">
+      <Project>{B8E13537-4D84-3893-9A87-C59D687EB0B9}</Project>
+      <Name>boing</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\external\glfw-3.1.2\tests\clipboard.vcxproj">
+      <Project>{D6EBF999-EB29-34F4-9939-8F6E9C5A4997}</Project>
+      <Name>clipboard</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\external\glfw-3.1.2\tests\cursor.vcxproj">
+      <Project>{3FD73982-5BF8-33AE-88D7-B0BF056DFBE3}</Project>
+      <Name>cursor</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\external\glfw-3.1.2\tests\empty.vcxproj">
+      <Project>{E56ADA4C-568E-3F5C-A340-DC767C55EEED}</Project>
+      <Name>empty</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\external\glfw-3.1.2\tests\events.vcxproj">
+      <Project>{06FA341B-D31C-358C-B7B3-8D3F3DD819D1}</Project>
+      <Name>events</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\external\glfw-3.1.2\tests\gamma.vcxproj">
+      <Project>{A1F1ECDD-4241-328D-81A1-BD754AE33385}</Project>
+      <Name>gamma</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\external\glfw-3.1.2\examples\gears.vcxproj">
+      <Project>{A21F8690-1013-3A93-B600-B029BE8F2BC3}</Project>
+      <Name>gears</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\external\glfw-3.1.2\src\glfw.vcxproj">
+      <Project>{3852F2F8-83AA-3FE2-95B9-7355E27EEE6A}</Project>
+      <Name>glfw</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\external\glfw-3.1.2\tests\glfwinfo.vcxproj">
+      <Project>{2F708700-17C2-3749-94BB-820A612124FE}</Project>
+      <Name>glfwinfo</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\external\glfw-3.1.2\examples\heightmap.vcxproj">
+      <Project>{8D5D19D9-DBCB-30EC-936A-13429CF42AF1}</Project>
+      <Name>heightmap</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\external\glfw-3.1.2\tests\iconify.vcxproj">
+      <Project>{38AAC9D7-2194-39DD-B881-5C4263D4EFBC}</Project>
+      <Name>iconify</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\external\glfw-3.1.2\tests\joysticks.vcxproj">
+      <Project>{123BEFCA-0364-3A54-B75E-9E4E8CE70BE5}</Project>
+      <Name>joysticks</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\external\glfw-3.1.2\tests\monitors.vcxproj">
+      <Project>{E764DB3E-687B-39DD-B27B-70EA20DC27F0}</Project>
+      <Name>monitors</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\external\glfw-3.1.2\tests\msaa.vcxproj">
+      <Project>{52E2F032-F4C9-3F7C-9961-41694FE24B31}</Project>
+      <Name>msaa</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\external\glfw-3.1.2\examples\particles.vcxproj">
+      <Project>{4B80B85D-D7E9-3BEE-88D0-BCDC6CA1CB02}</Project>
+      <Name>particles</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\external\glfw-3.1.2\tests\reopen.vcxproj">
+      <Project>{DC6D38BC-B906-3F53-84D7-6C9426B231BD}</Project>
+      <Name>reopen</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\external\glfw-3.1.2\tests\sharing.vcxproj">
+      <Project>{537B51B9-0386-333B-B779-BCB18064F91E}</Project>
+      <Name>sharing</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\external\glfw-3.1.2\examples\simple.vcxproj">
+      <Project>{A89FBFAD-FF18-31E3-817E-9E77B9CAC9E2}</Project>
+      <Name>simple</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\external\glfw-3.1.2\examples\splitview.vcxproj">
+      <Project>{61C8ED9A-BB90-3F72-AF11-A9EF477C6BC4}</Project>
+      <Name>splitview</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\external\glfw-3.1.2\tests\tearing.vcxproj">
+      <Project>{B0E92BD8-573E-35C4-B7BE-B2FCFF6C280E}</Project>
+      <Name>tearing</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\external\glfw-3.1.2\tests\threads.vcxproj">
+      <Project>{8ACD54C8-4418-3C5E-B89D-E44F1CEEE177}</Project>
+      <Name>threads</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\external\glfw-3.1.2\tests\title.vcxproj">
+      <Project>{B3521EE6-BFBC-3B44-B9AA-8EABC06B7871}</Project>
+      <Name>title</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\external\glfw-3.1.2\examples\wave.vcxproj">
+      <Project>{C8F97482-F071-3255-B826-0D71AAF22B68}</Project>
+      <Name>wave</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\git\Computer-Graphics-Labs\build3\external\glfw-3.1.2\tests\windows.vcxproj">
+      <Project>{E123295A-1045-3401-B7AE-608B42AD391F}</Project>
+      <Name>windows</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

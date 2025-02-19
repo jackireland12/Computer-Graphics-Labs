@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\git\Computer-Graphics-Labs\Lab03_Textures\Lab03_Textures.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\git\Computer-Graphics-Labs\common\shader.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\git\Computer-Graphics-Labs\common\texture.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\git\Computer-Graphics-Labs\common\stb_image.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\git\Computer-Graphics-Labs\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\git\Computer-Graphics-Labs\Lab03_Textures\vertexShader.glsl" />
+    <None Include="D:\git\Computer-Graphics-Labs\Lab03_Textures\fragmentShader.glsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C281ADF3-25F1-3444-88AA-4DD777ABDE66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B09EA56E-55D4-39E1-8042-E8A5174F4FED}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
