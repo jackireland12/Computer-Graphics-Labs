@@ -24,10 +24,10 @@
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{33382043-4701-352C-B6CF-441D39785A3E}</UniqueIdentifier>
+      <UniqueIdentifier>{18986341-DB58-371C-9DB8-B3E10D4D9BD4}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{F0690163-6059-3F5B-ACD6-654AA818EA56}</UniqueIdentifier>
+      <UniqueIdentifier>{815C1A8A-3276-31A0-8859-907618811274}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

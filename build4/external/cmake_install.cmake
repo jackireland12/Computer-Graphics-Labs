@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("D:/git3/Computer-Graphics-Labs/build4/external/glfw-3.1.2/cmake_install.cmake")
+  include("D:/git4/Computer-Graphics-Labs/build4/external/glfw-3.1.2/cmake_install.cmake")
 
 endif()
 
