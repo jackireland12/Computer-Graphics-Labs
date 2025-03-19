@@ -5,5 +5,5 @@ if [%1]==[--debugger] (
 	SHIFT
 )
 
-"D:\git4\Computer-Graphics-Labs\build4\Debug\Lab04_Vectors_and_matrices.exe"  
+"D:\git5\Computer-Graphics-Labs\build4\Debug\Lab04_Vectors_and_matrices.exe"  
 pause

@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\git4\\Computer-Graphics-Labs\\build4\\",
+  "WorkspaceRootPath": "D:\\git5\\Computer-Graphics-Labs\\build4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6956C7E-963B-3D1A-B44F-17C1D5BF092D}|Lab06_3D_worlds.vcxproj|D:\\git3\\Computer-Graphics-Labs\\Lab06_3D_worlds\\Lab06_3D_worlds.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8976EE25-0557-3C83-85F0-F9205BD32D7B}|Lab08_Lighting.vcxproj|D:\\git3\\Computer-Graphics-Labs\\Lab08_Lighting\\lightVertexShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6956C7E-963B-3D1A-B44F-17C1D5BF092D}|Lab06_3D_worlds.vcxproj|D:\\git3\\Computer-Graphics-Labs\\common\\camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8976EE25-0557-3C83-85F0-F9205BD32D7B}|Lab08_Lighting.vcxproj|D:\\git3\\Computer-Graphics-Labs\\Lab08_Lighting\\lightFragmentShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6956C7E-963B-3D1A-B44F-17C1D5BF092D}|Lab06_3D_worlds.vcxproj|D:\\git3\\Computer-Graphics-Labs\\common\\camera.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8976EE25-0557-3C83-85F0-F9205BD32D7B}|Lab08_Lighting.vcxproj|D:\\git3\\Computer-Graphics-Labs\\Lab08_Lighting\\Lab08_Lighting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6956C7E-963B-3D1A-B44F-17C1D5BF092D}|Lab06_3D_worlds.vcxproj|D:\\git3\\Computer-Graphics-Labs\\common\\maths.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8976EE25-0557-3C83-85F0-F9205BD32D7B}|Lab08_Lighting.vcxproj|D:\\git3\\Computer-Graphics-Labs\\Lab08_Lighting\\fragmentShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6956C7E-963B-3D1A-B44F-17C1D5BF092D}|Lab06_3D_worlds.vcxproj|D:\\git3\\Computer-Graphics-Labs\\Lab06_3D_worlds\\vertexShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{8976EE25-0557-3C83-85F0-F9205BD32D7B}|Lab08_Lighting.vcxproj|D:\\git3\\Computer-Graphics-Labs\\Lab08_Lighting\\vertexShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,71 +25,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "camera.hpp",
-              "DocumentMoniker": "D:\\git3\\Computer-Graphics-Labs\\common\\camera.hpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\git3\\Computer-Graphics-Labs\\common\\camera.hpp",
-              "ToolTip": "D:\\git3\\Computer-Graphics-Labs\\common\\camera.hpp",
-              "RelativeToolTip": "..\\..\\..\\git3\\Computer-Graphics-Labs\\common\\camera.hpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-05T16:28:41.797Z",
+              "DocumentIndex": 0,
+              "Title": "lightVertexShader.glsl",
+              "DocumentMoniker": "D:\\git3\\Computer-Graphics-Labs\\Lab08_Lighting\\lightVertexShader.glsl",
+              "RelativeDocumentMoniker": "..\\..\\..\\git3\\Computer-Graphics-Labs\\Lab08_Lighting\\lightVertexShader.glsl",
+              "ToolTip": "D:\\git3\\Computer-Graphics-Labs\\Lab08_Lighting\\lightVertexShader.glsl",
+              "RelativeToolTip": "..\\..\\..\\git3\\Computer-Graphics-Labs\\Lab08_Lighting\\lightVertexShader.glsl",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-19T16:47:19.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lightFragmentShader.glsl",
+              "DocumentMoniker": "D:\\git3\\Computer-Graphics-Labs\\Lab08_Lighting\\lightFragmentShader.glsl",
+              "RelativeDocumentMoniker": "..\\..\\..\\git3\\Computer-Graphics-Labs\\Lab08_Lighting\\lightFragmentShader.glsl",
+              "ToolTip": "D:\\git3\\Computer-Graphics-Labs\\Lab08_Lighting\\lightFragmentShader.glsl",
+              "RelativeToolTip": "..\\..\\..\\git3\\Computer-Graphics-Labs\\Lab08_Lighting\\lightFragmentShader.glsl",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-19T16:47:17.391Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "vertexShader.glsl",
-              "DocumentMoniker": "D:\\git3\\Computer-Graphics-Labs\\Lab06_3D_worlds\\vertexShader.glsl",
-              "RelativeDocumentMoniker": "..\\..\\..\\git3\\Computer-Graphics-Labs\\Lab06_3D_worlds\\vertexShader.glsl",
-              "ToolTip": "D:\\git3\\Computer-Graphics-Labs\\Lab06_3D_worlds\\vertexShader.glsl",
-              "RelativeToolTip": "..\\..\\..\\git3\\Computer-Graphics-Labs\\Lab06_3D_worlds\\vertexShader.glsl",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "DocumentMoniker": "D:\\git3\\Computer-Graphics-Labs\\Lab08_Lighting\\vertexShader.glsl",
+              "RelativeDocumentMoniker": "..\\..\\..\\git3\\Computer-Graphics-Labs\\Lab08_Lighting\\vertexShader.glsl",
+              "ToolTip": "D:\\git3\\Computer-Graphics-Labs\\Lab08_Lighting\\vertexShader.glsl",
+              "RelativeToolTip": "..\\..\\..\\git3\\Computer-Graphics-Labs\\Lab08_Lighting\\vertexShader.glsl",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-05T15:59:14.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "camera.cpp",
-              "DocumentMoniker": "D:\\git3\\Computer-Graphics-Labs\\common\\camera.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\git3\\Computer-Graphics-Labs\\common\\camera.cpp",
-              "ToolTip": "D:\\git3\\Computer-Graphics-Labs\\common\\camera.cpp",
-              "RelativeToolTip": "..\\..\\..\\git3\\Computer-Graphics-Labs\\common\\camera.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-05T15:29:34.073Z",
+              "WhenOpened": "2025-03-19T16:08:11.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "maths.cpp",
-              "DocumentMoniker": "D:\\git3\\Computer-Graphics-Labs\\common\\maths.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\git3\\Computer-Graphics-Labs\\common\\maths.cpp",
-              "ToolTip": "D:\\git3\\Computer-Graphics-Labs\\common\\maths.cpp",
-              "RelativeToolTip": "..\\..\\..\\git3\\Computer-Graphics-Labs\\common\\maths.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-05T15:29:32.242Z",
+              "Title": "fragmentShader.glsl",
+              "DocumentMoniker": "D:\\git3\\Computer-Graphics-Labs\\Lab08_Lighting\\fragmentShader.glsl",
+              "RelativeDocumentMoniker": "..\\..\\..\\git3\\Computer-Graphics-Labs\\Lab08_Lighting\\fragmentShader.glsl",
+              "ToolTip": "D:\\git3\\Computer-Graphics-Labs\\Lab08_Lighting\\fragmentShader.glsl",
+              "RelativeToolTip": "..\\..\\..\\git3\\Computer-Graphics-Labs\\Lab08_Lighting\\fragmentShader.glsl",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-19T15:33:48.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Lab06_3D_worlds.cpp",
-              "DocumentMoniker": "D:\\git3\\Computer-Graphics-Labs\\Lab06_3D_worlds\\Lab06_3D_worlds.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\git3\\Computer-Graphics-Labs\\Lab06_3D_worlds\\Lab06_3D_worlds.cpp",
-              "ToolTip": "D:\\git3\\Computer-Graphics-Labs\\Lab06_3D_worlds\\Lab06_3D_worlds.cpp",
-              "RelativeToolTip": "..\\..\\..\\git3\\Computer-Graphics-Labs\\Lab06_3D_worlds\\Lab06_3D_worlds.cpp",
-              "ViewState": "AQIAAA4BAAAAAAAAAAAAACUBAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Lab08_Lighting.cpp",
+              "DocumentMoniker": "D:\\git3\\Computer-Graphics-Labs\\Lab08_Lighting\\Lab08_Lighting.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\git3\\Computer-Graphics-Labs\\Lab08_Lighting\\Lab08_Lighting.cpp",
+              "ToolTip": "D:\\git3\\Computer-Graphics-Labs\\Lab08_Lighting\\Lab08_Lighting.cpp",
+              "RelativeToolTip": "..\\..\\..\\git3\\Computer-Graphics-Labs\\Lab08_Lighting\\Lab08_Lighting.cpp",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAALgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-05T15:29:30.178Z",
+              "WhenOpened": "2025-03-19T15:10:05.491Z",
               "EditorCaption": ""
             }
           ]

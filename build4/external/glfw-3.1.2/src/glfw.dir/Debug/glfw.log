@@ -11,4 +11,4 @@
   win32_window.c
   winmm_joystick.c
   wgl_context.c
-  glfw.vcxproj -> D:\git4\Computer-Graphics-Labs\build4\external\glfw-3.1.2\src\Debug\glfw3.lib
+  glfw.vcxproj -> D:\git5\Computer-Graphics-Labs\build4\external\glfw-3.1.2\src\Debug\glfw3.lib

@@ -5,5 +5,5 @@ if [%1]==[--debugger] (
 	SHIFT
 )
 
-"D:\git4\Computer-Graphics-Labs\build4\RelWithDebInfo\Lab08_Lighting.exe"  
+"D:\git5\Computer-Graphics-Labs\build4\RelWithDebInfo\Lab08_Lighting.exe"  
 pause

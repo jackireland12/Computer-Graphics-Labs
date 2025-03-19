@@ -1,6 +1,6 @@
-^D:\GIT4\COMPUTER-GRAPHICS-LABS\BUILD4\CMAKEFILES\08FB4D5E613C4C0F43CD0BA9D528C11A\GENERATE.STAMP.RULE
+^D:\GIT5\COMPUTER-GRAPHICS-LABS\BUILD4\CMAKEFILES\06D16F755C170D564BEF94E2F3E946BB\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SD:/git3/Computer-Graphics-Labs -BD:/git4/Computer-Graphics-Labs/build4 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/git4/Computer-Graphics-Labs/build4/Computer_Graphics_Labs.sln
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/git3/Computer-Graphics-Labs -BD:/git5/Computer-Graphics-Labs/build4 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/git5/Computer-Graphics-Labs/build4/Computer_Graphics_Labs.sln
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
