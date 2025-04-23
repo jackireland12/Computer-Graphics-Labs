@@ -3,6 +3,63 @@
   "WorkspaceRootPath": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\homebuild\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C17AC26-3BED-3594-8BB1-3F6C087585F9}|Lab10_Quaternions.vcxproj|C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab10_Quaternions\\fragmentShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17AC26-3BED-3594-8BB1-3F6C087585F9}|Lab10_Quaternions.vcxproj|C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab10_Quaternions\\vertexShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17AC26-3BED-3594-8BB1-3F6C087585F9}|Lab10_Quaternions.vcxproj|C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab09_Normal_maps\\lightVertexShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17AC26-3BED-3594-8BB1-3F6C087585F9}|Lab10_Quaternions.vcxproj|C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab09_Normal_maps\\lightFragmentShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17AC26-3BED-3594-8BB1-3F6C087585F9}|Lab10_Quaternions.vcxproj|C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab10_Quaternions\\Lab10_Quaternions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17AC26-3BED-3594-8BB1-3F6C087585F9}|Lab10_Quaternions.vcxproj|C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17AC26-3BED-3594-8BB1-3F6C087585F9}|Lab10_Quaternions.vcxproj|C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\shader.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17AC26-3BED-3594-8BB1-3F6C087585F9}|Lab10_Quaternions.vcxproj|C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\model.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17AC26-3BED-3594-8BB1-3F6C087585F9}|Lab10_Quaternions.vcxproj|C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\maths.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17AC26-3BED-3594-8BB1-3F6C087585F9}|Lab10_Quaternions.vcxproj|C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\light.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17AC26-3BED-3594-8BB1-3F6C087585F9}|Lab10_Quaternions.vcxproj|C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\camera.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17AC26-3BED-3594-8BB1-3F6C087585F9}|Lab10_Quaternions.vcxproj|C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\light.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17AC26-3BED-3594-8BB1-3F6C087585F9}|Lab10_Quaternions.vcxproj|C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\maths.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17AC26-3BED-3594-8BB1-3F6C087585F9}|Lab10_Quaternions.vcxproj|C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFBF867F-160B-3465-8157-797794F18792}|Lab07_Moving_the_camera.vcxproj|C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab07_Moving_the_camera\\Lab07_Moving_the_camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64A19F3-DDBC-30E4-8082-708F8E4D5CCF}|Lab06_3D_worlds.vcxproj|C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab06_3D_worlds\\Lab06_3D_worlds.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A93AFC-EAFA-31CC-A565-D71EFCDA956D}|Lab08_Lighting.vcxproj|C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab08_Lighting\\Lab08_Lighting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64A19F3-DDBC-30E4-8082-708F8E4D5CCF}|Lab06_3D_worlds.vcxproj|C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\texture.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64A19F3-DDBC-30E4-8082-708F8E4D5CCF}|Lab06_3D_worlds.vcxproj|C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\stb_image.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9706B958-838E-3711-B1E2-CDDCF43AB696}|Lab02_Basic_shapes.vcxproj|C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab02_Basic_shapes\\fragmentShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
@@ -19,11 +76,258 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vertexShader.glsl",
+              "DocumentMoniker": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab10_Quaternions\\vertexShader.glsl",
+              "RelativeDocumentMoniker": "..\\Lab10_Quaternions\\vertexShader.glsl",
+              "ToolTip": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab10_Quaternions\\vertexShader.glsl",
+              "RelativeToolTip": "..\\Lab10_Quaternions\\vertexShader.glsl",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-23T01:01:59.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lightVertexShader.glsl",
+              "DocumentMoniker": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab09_Normal_maps\\lightVertexShader.glsl",
+              "RelativeDocumentMoniker": "..\\Lab09_Normal_maps\\lightVertexShader.glsl",
+              "ToolTip": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab09_Normal_maps\\lightVertexShader.glsl",
+              "RelativeToolTip": "..\\Lab09_Normal_maps\\lightVertexShader.glsl",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-23T01:01:19.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lightFragmentShader.glsl",
+              "DocumentMoniker": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab09_Normal_maps\\lightFragmentShader.glsl",
+              "RelativeDocumentMoniker": "..\\Lab09_Normal_maps\\lightFragmentShader.glsl",
+              "ToolTip": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab09_Normal_maps\\lightFragmentShader.glsl",
+              "RelativeToolTip": "..\\Lab09_Normal_maps\\lightFragmentShader.glsl",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-23T01:01:10.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "model.hpp",
+              "DocumentMoniker": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\model.hpp",
+              "RelativeDocumentMoniker": "..\\common\\model.hpp",
+              "ToolTip": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\model.hpp",
+              "RelativeToolTip": "..\\common\\model.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-23T00:57:14.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "light.hpp",
+              "DocumentMoniker": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\light.hpp",
+              "RelativeDocumentMoniker": "..\\common\\light.hpp",
+              "ToolTip": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\light.hpp",
+              "RelativeToolTip": "..\\common\\light.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-23T00:55:10.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "maths.hpp",
+              "DocumentMoniker": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\maths.hpp",
+              "RelativeDocumentMoniker": "..\\common\\maths.hpp",
+              "ToolTip": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\maths.hpp",
+              "RelativeToolTip": "..\\common\\maths.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-22T20:06:52.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "camera.cpp",
+              "DocumentMoniker": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\camera.cpp",
+              "RelativeDocumentMoniker": "..\\common\\camera.cpp",
+              "ToolTip": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\camera.cpp",
+              "RelativeToolTip": "..\\common\\camera.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-21T19:11:19.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "maths.cpp",
+              "DocumentMoniker": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\maths.cpp",
+              "RelativeDocumentMoniker": "..\\common\\maths.cpp",
+              "ToolTip": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\maths.cpp",
+              "RelativeToolTip": "..\\common\\maths.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-21T19:11:34.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "light.cpp",
+              "DocumentMoniker": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\light.cpp",
+              "RelativeDocumentMoniker": "..\\common\\light.cpp",
+              "ToolTip": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\light.cpp",
+              "RelativeToolTip": "..\\common\\light.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-21T19:11:30.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "fragmentShader.glsl",
+              "DocumentMoniker": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab10_Quaternions\\fragmentShader.glsl",
+              "RelativeDocumentMoniker": "..\\Lab10_Quaternions\\fragmentShader.glsl",
+              "ToolTip": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab10_Quaternions\\fragmentShader.glsl",
+              "RelativeToolTip": "..\\Lab10_Quaternions\\fragmentShader.glsl",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-22T20:05:55.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "model.cpp",
+              "DocumentMoniker": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\model.cpp",
+              "RelativeDocumentMoniker": "..\\common\\model.cpp",
+              "ToolTip": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\model.cpp",
+              "RelativeToolTip": "..\\common\\model.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-21T19:11:35.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lab10_Quaternions.cpp",
+              "DocumentMoniker": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab10_Quaternions\\Lab10_Quaternions.cpp",
+              "RelativeDocumentMoniker": "..\\Lab10_Quaternions\\Lab10_Quaternions.cpp",
+              "ToolTip": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab10_Quaternions\\Lab10_Quaternions.cpp",
+              "RelativeToolTip": "..\\Lab10_Quaternions\\Lab10_Quaternions.cpp",
+              "ViewState": "AQIAANIAAAAAAAAAAAAAAPMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-21T19:11:26.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "shader.hpp",
+              "DocumentMoniker": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\shader.hpp",
+              "RelativeDocumentMoniker": "..\\common\\shader.hpp",
+              "ToolTip": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\shader.hpp",
+              "RelativeToolTip": "..\\common\\shader.hpp",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-22T21:07:32.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Lab07_Moving_the_camera.cpp",
+              "DocumentMoniker": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab07_Moving_the_camera\\Lab07_Moving_the_camera.cpp",
+              "RelativeDocumentMoniker": "..\\Lab07_Moving_the_camera\\Lab07_Moving_the_camera.cpp",
+              "ToolTip": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab07_Moving_the_camera\\Lab07_Moving_the_camera.cpp",
+              "RelativeToolTip": "..\\Lab07_Moving_the_camera\\Lab07_Moving_the_camera.cpp",
+              "ViewState": "AQIAAAwBAAAAAAAAAAAAABgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T21:15:48.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Lab06_3D_worlds.cpp",
+              "DocumentMoniker": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab06_3D_worlds\\Lab06_3D_worlds.cpp",
+              "RelativeDocumentMoniker": "..\\Lab06_3D_worlds\\Lab06_3D_worlds.cpp",
+              "ToolTip": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab06_3D_worlds\\Lab06_3D_worlds.cpp",
+              "RelativeToolTip": "..\\Lab06_3D_worlds\\Lab06_3D_worlds.cpp",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAAAFYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T20:54:01.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "camera.hpp",
+              "DocumentMoniker": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\camera.hpp",
+              "RelativeDocumentMoniker": "..\\common\\camera.hpp",
+              "ToolTip": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\camera.hpp",
+              "RelativeToolTip": "..\\common\\camera.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-21T19:14:53.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Lab08_Lighting.cpp",
+              "DocumentMoniker": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab08_Lighting\\Lab08_Lighting.cpp",
+              "RelativeDocumentMoniker": "..\\Lab08_Lighting\\Lab08_Lighting.cpp",
+              "ToolTip": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab08_Lighting\\Lab08_Lighting.cpp",
+              "RelativeToolTip": "..\\Lab08_Lighting\\Lab08_Lighting.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T21:12:05.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "texture.hpp",
+              "DocumentMoniker": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\texture.hpp",
+              "RelativeDocumentMoniker": "..\\common\\texture.hpp",
+              "ToolTip": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\texture.hpp",
+              "RelativeToolTip": "..\\common\\texture.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-22T21:09:10.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "stb_image.hpp",
+              "DocumentMoniker": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\stb_image.hpp",
+              "RelativeDocumentMoniker": "..\\common\\stb_image.hpp",
+              "ToolTip": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\common\\stb_image.hpp",
+              "RelativeToolTip": "..\\common\\stb_image.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-22T21:07:33.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "fragmentShader.glsl",
               "DocumentMoniker": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab02_Basic_shapes\\fragmentShader.glsl",
               "RelativeDocumentMoniker": "..\\Lab02_Basic_shapes\\fragmentShader.glsl",
@@ -31,12 +335,11 @@
               "RelativeToolTip": "..\\Lab02_Basic_shapes\\fragmentShader.glsl",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-07T17:18:46.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T17:18:46.752Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 20,
               "Title": "vertexShader.glsl",
               "DocumentMoniker": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab02_Basic_shapes\\vertexShader.glsl",
               "RelativeDocumentMoniker": "..\\Lab02_Basic_shapes\\vertexShader.glsl",
@@ -44,12 +347,11 @@
               "RelativeToolTip": "..\\Lab02_Basic_shapes\\vertexShader.glsl",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-07T17:18:45.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T17:18:45.984Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 21,
               "Title": "Lab02_Basic_shapes.cpp",
               "DocumentMoniker": "C:\\Users\\qwert\\OneDrive\\Desktop\\computergraphics\\Computer-Graphics-Labs\\Lab02_Basic_shapes\\Lab02_Basic_shapes.cpp",
               "RelativeDocumentMoniker": "..\\Lab02_Basic_shapes\\Lab02_Basic_shapes.cpp",
@@ -57,8 +359,7 @@
               "RelativeToolTip": "..\\Lab02_Basic_shapes\\Lab02_Basic_shapes.cpp",
               "ViewState": "AQIAACQAAAAAAAAAAAAAAEIAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-07T17:15:34.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T17:15:34.245Z"
             }
           ]
         }

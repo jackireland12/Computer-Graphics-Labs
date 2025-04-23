@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/qwert/OneDrive/Desktop/computergraphics/Computer-Graphics-Labs/CMakeLists.txt
+  Lab08_Lighting.cpp
+  maths.cpp
+  camera.cpp
+  model.cpp
+C:\Users\qwert\OneDrive\Desktop\computergraphics\Computer-Graphics-Labs\Lab08_Lighting\Lab08_Lighting.cpp(114,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Lab08_Lighting.vcxproj -> C:\Users\qwert\OneDrive\Desktop\computergraphics\Computer-Graphics-Labs\homebuild\Debug\Lab08_Lighting.exe

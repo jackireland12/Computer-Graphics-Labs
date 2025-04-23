@@ -1,0 +1,5 @@
+﻿  Lab10_Quaternions.cpp
+  maths.cpp
+  camera.cpp
+C:\Users\qwert\OneDrive\Desktop\computergraphics\Computer-Graphics-Labs\Lab10_Quaternions\Lab10_Quaternions.cpp(150,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Lab10_Quaternions.vcxproj -> C:\Users\qwert\OneDrive\Desktop\computergraphics\Computer-Graphics-Labs\homebuild\Debug\Lab10_Quaternions.exe
